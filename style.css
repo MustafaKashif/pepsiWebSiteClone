@@ -1,0 +1,29 @@
+.mainDiv {
+  font-family: "Courier New", Courier, monospace;
+  background-color: #265cc5;
+  width: 94vw;
+  height: 100vh;
+  display: flex;
+  padding: 20px;
+}
+
+.childDiv {
+  position: absolute;
+  margin-top: -105px;
+  margin-left: 370px;
+}
+
+.parentDiv {
+margin-top: -15px;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.figc {
+  text-align: center;
+  background-color: cadetblue;
+  margin-top: -4px;
+  padding: 10px;
+  color: white;
+}
